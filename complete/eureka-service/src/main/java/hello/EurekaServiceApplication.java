@@ -12,3 +12,9 @@ public class EurekaServiceApplication {
         SpringApplication.run(EurekaServiceApplication.class, args);
     }
 }
+
+/*
+hey, wtf is happening? oh here it is:
+
+https://spring.io/guides/gs/service-registration-and-discovery/
+ */
